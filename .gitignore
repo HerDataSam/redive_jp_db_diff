@@ -1,0 +1,10 @@
+## Ignore files
+
+# sql files
+sql/
+*.sql
+
+# intermediate files
+*.mdb
+*.cdb
+
