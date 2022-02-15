@@ -205,3 +205,8 @@ music_id,name,total_playing_time,listen_start_time,detail,sheet_id,cue_id
 204,"新春美食メモリーズ　シェフィのおつかい大作戦！",1:04,0:00,"ストーリーイベントテーマ\n-｢Ice Wings｣アレンジ-\n\n時間 / 01:04\n作曲 / AJURIKA\n編曲 / 畑田浩孝（Cygames）",bgm_M543,bgm_M543_juke
 205,"邪牛神モーモン",1:59,0:00,"ストーリーイベントボスバトル\n\n時間 / 01:59\n作曲 / 塚越廉\n編曲 / 塚越廉",bgm_M546,bgm_M546_juke
 206,"Ice Wings",1:36,1:05,"キャラクターソング\n\n時間 / 01:36\n歌　 / シェフィ（近藤玲奈）\n作詞 / AJURIKA\n作曲 / AJURIKA\n編曲 / AJURIKA",bgm_M551,bgm_M551
+207,"手がかりを探して",1:25,0:00,"ストーリーイベントテーマ\n-｢Asymmetric World｣アレンジ-\n\n時間 / 01:25\n作曲 / 伊藤翼\n編曲 / 関根修平（Cygames）",bgm_M552,bgm_M552_juke
+208,"みんなが過ごす世界へ",1:10,0:00,"ストーリーイベントテーマ\n-｢Asymmetric World｣アレンジ-\n\n時間 / 01:10\n作曲 / 伊藤翼\n編曲 / 中町友洋",bgm_M553,bgm_M553_juke
+209,"オーバーロードフォース",2:08,0:00,"ストーリーイベントボスバトル\n\n時間 / 02:08\n作曲 / 伊禮完（Cygames）\n編曲 / 伊禮完（Cygames）",bgm_M559,bgm_M559_juke
+210,"Asymmetric World",1:35,0:46,"キャラクターソング\n\n時間 / 01:35\n歌　 / ペコリーヌ（M･A･O）\n　　　キャル（立花理香）\n作詞 / 瀬名航\n作曲 / 伊藤翼\n編曲 / 伊藤翼",bgm_M572,bgm_M572
+211,"みんなの想い",3:27,0:00,"ストーリーイベントミニコンテンツ\n-｢Asymmetric World｣アレンジ-\n\n時間 / 03:27\n作曲 / 伊藤翼\n編曲 / 中川峻彰",bgm_M558,bgm_M558_juke
