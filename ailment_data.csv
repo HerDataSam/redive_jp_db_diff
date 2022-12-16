@@ -41,3 +41,4 @@ ailment_id,ailment_action,ailment_detail_1,ailment_name
 40,83,2,"ヘイスト(加算可能)"
 41,49,3,"バフ消去"
 42,49,10,"バリア消去"
+43,9,9,"黒炎"

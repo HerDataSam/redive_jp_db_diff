@@ -1,7 +1,6 @@
 event_id,system_name,tutorial_quest_id,tutorial_chara_index,tutorial_story_id
 10053,"信頼度",10053102,1,6017101
 10088,"信頼度",10088106,1,6088201
-10089,"信頼度",10089106,1,6061101
 10090,"信頼度",10090104,1,6090101
 10093,"信頼度",10093108,1,6066101
 10094,"信頼度",10094102,1,6094101
@@ -26,3 +25,4 @@ event_id,system_name,tutorial_quest_id,tutorial_chara_index,tutorial_story_id
 20030,"信頼度",0,1,0
 20031,"信頼度",0,1,0
 20032,"信頼度",0,1,0
+20035,"信頼度",0,1,0
